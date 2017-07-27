@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Rahul\.android\build-cache\3591c9a397547b663d7632aee3386d5da1d8cea1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Rahul\.android\build-cache\c715bb77756e0bd1214acb0615ef93972fd354f2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Rahul\.android\build-cache\30ed05d2e8bb565568f70a35b31b1fec8c636fe8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Rahul\.android\build-cache\1b49c8e4dae72dc7e9b029c1599352c5c9a6457a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\Rahul\.android\build-cache\db56a0324e195d74b372243a65886422ed9e1a6c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Rahul\.android\build-cache\6462aff187f6467c8b219bdea4c7b17ac107e3db\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Rahul\.android\build-cache\5c06c2a1822a8b7fdc115a5cf777bb2d3b7a63d2\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Rahul\.android\build-cache\ad32a81cda4473bd35c49820b0975a4b900238db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Rahul\.android\build-cache\49345760b799fedb0a71518135d615f324298548\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Rahul\.android\build-cache\a0ac087c39f29193331fe3cda6c76594fbce2e21\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Rahul\.android\build-cache\99bb03973368b796647d5580b329ecec2b88f57e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Rahul\.android\build-cache\c3a83905d002aabc0fffa8d58ca98851c74d6cc6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Rahul\.android\build-cache\9441704e0c9effa14eca2f7636fe63f914bbdd94\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:15:9-37
+	android:supportsRtl
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Rahul\.android\build-cache\5c06c2a1822a8b7fdc115a5cf777bb2d3b7a63d2\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] C:\Users\Rahul\.android\build-cache\3591c9a397547b663d7632aee3386d5da1d8cea1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Rahul\.android\build-cache\c715bb77756e0bd1214acb0615ef93972fd354f2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Rahul\.android\build-cache\30ed05d2e8bb565568f70a35b31b1fec8c636fe8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Rahul\.android\build-cache\1b49c8e4dae72dc7e9b029c1599352c5c9a6457a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Rahul\.android\build-cache\0b103783882a88b072f1da577a6355e93844eb3b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\Rahul\.android\build-cache\db56a0324e195d74b372243a65886422ed9e1a6c\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Rahul\.android\build-cache\6462aff187f6467c8b219bdea4c7b17ac107e3db\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Rahul\.android\build-cache\5c06c2a1822a8b7fdc115a5cf777bb2d3b7a63d2\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Rahul\.android\build-cache\ad32a81cda4473bd35c49820b0975a4b900238db\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Rahul\.android\build-cache\49345760b799fedb0a71518135d615f324298548\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Rahul\.android\build-cache\a0ac087c39f29193331fe3cda6c76594fbce2e21\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Rahul\.android\build-cache\99bb03973368b796647d5580b329ecec2b88f57e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Rahul\.android\build-cache\c3a83905d002aabc0fffa8d58ca98851c74d6cc6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Rahul\.android\build-cache\9441704e0c9effa14eca2f7636fe63f914bbdd94\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Rahul\.android\build-cache\c715bb77756e0bd1214acb0615ef93972fd354f2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul\Desktop\protext_share\ocr-codelab\ocr-reader-start\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Rahul\.android\build-cache\2f8e11d786205ff6ef72c47a3289016efed7842e\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Rahul\.android\build-cache\3ccb5eb00b665d5f0a676b4fd7bf097d2127db2d\output\AndroidManifest.xml:9:13-58
