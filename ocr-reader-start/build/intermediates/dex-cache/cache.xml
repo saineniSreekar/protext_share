@@ -3,174 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\a0ac087c39f29193331fe3cda6c76594fbce2e21\output\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6df679149d50b346bc0adc66eeda89a511513c97\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_28f734ffd4ebb9ebfbae5b32aaef7b20b2b713e4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94a146b000b4d9c207dd266f681686a6f0c02f8d">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b184070f587c0629abdcf2824a78fa9a03e8343\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\lenovo\Desktop\protext_share\ocr-reader-start\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_adcb86b9794046dd7da86d75fd8adf4d6aa16702\classes.dex" />
+        <dex dex="C:\Users\lenovo\Desktop\protext_share\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0ece73a7ca0450577146d71f14e5dce8171d4c82\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\99bb03973368b796647d5580b329ecec2b88f57e\output\jars\classes.jar"
+        jar="C:\Users\lenovo\Desktop\protext_share\ocr-reader-start\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_463dea6503347ccc5c4d182c58df1fced74afa2c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\9441704e0c9effa14eca2f7636fe63f914bbdd94\output\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4282265878188b6a55b5958df01af507ab97b0a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\c3a83905d002aabc0fffa8d58ca98851c74d6cc6\output\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d9e385964c5f16a36f1eaf065f3ed0573182e7ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\99bb03973368b796647d5580b329ecec2b88f57e\output\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_efc939a77d986e867c2ab663bacfd177fca33a45\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\a0ac087c39f29193331fe3cda6c76594fbce2e21\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d924ff58654466f5c77b12a123ad73f0d7d720e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\0b103783882a88b072f1da577a6355e93844eb3b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa18d57be5ef3d3a91c9dd701da8ae8dfd3efba5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\c715bb77756e0bd1214acb0615ef93972fd354f2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bc5c7f5db4a6b816f0a83e05fb07509f333338d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\49345760b799fedb0a71518135d615f324298548\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dcfa9cf18f5e3fa0136e4fc46c19cc19f57c0a2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\1b49c8e4dae72dc7e9b029c1599352c5c9a6457a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9a5e5915cd231fd3c4f3924216e6632190ba43d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\9441704e0c9effa14eca2f7636fe63f914bbdd94\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_774090ff4006e6470d5a83f19c50be0abd0237d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\3591c9a397547b663d7632aee3386d5da1d8cea1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2541780b6642153c96bea601e01fe345063dec4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\30ed05d2e8bb565568f70a35b31b1fec8c636fe8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a5f23f8adced80f6fd9a31bcddc1d0bfd227234\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\ad32a81cda4473bd35c49820b0975a4b900238db\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a184fd05629022a8b27efba800f8063c975b4be\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\49345760b799fedb0a71518135d615f324298548\output\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_a81b15e0236eef18980c7648c7275de65a10e9a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Rahul\.android\build-cache\c3a83905d002aabc0fffa8d58ca98851c74d6cc6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\Rahul\Desktop\529\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a64c796616ca7c37724d010a411901ed7adfacfe\classes.dex" />
+        sha1="fb24f2ab0f42d821a083065d6bce9db34c990cdc">
+        <dex dex="C:\Users\lenovo\Desktop\protext_share\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9fac7fb3554014d2b0163068492536a3692714a\classes.dex" />
     </item>
 
 </items>

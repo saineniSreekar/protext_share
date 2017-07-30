@@ -1,7 +1,7 @@
-#Wed Jun 28 18:49:46 IST 2017
-base.0=C\:\\Users\\Rahul\\Desktop\\529\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adcb86b9794046dd7da86d75fd8adf4d6aa16702
+#Sun Jul 30 08:45:07 IST 2017
+base.0=C\:\\Users\\lenovo\\Desktop\\protext_share\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ece73a7ca0450577146d71f14e5dce8171d4c82
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\Rahul\\Desktop\\529\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5b184070f587c0629abdcf2824a78fa9a03e8343\\classes.dex
-base.1=C\:\\Users\\Rahul\\Desktop\\529\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5b184070f587c0629abdcf2824a78fa9a03e8343
-file.0=C\:\\Users\\Rahul\\Desktop\\529\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adcb86b9794046dd7da86d75fd8adf4d6aa16702\\classes.dex
+file.1=C\:\\Users\\lenovo\\Desktop\\protext_share\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9fac7fb3554014d2b0163068492536a3692714a\\classes.dex
+base.1=C\:\\Users\\lenovo\\Desktop\\protext_share\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9fac7fb3554014d2b0163068492536a3692714a
+file.0=C\:\\Users\\lenovo\\Desktop\\protext_share\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ece73a7ca0450577146d71f14e5dce8171d4c82\\classes.dex
